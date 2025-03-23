@@ -32,6 +32,17 @@ The goal of this project is to make the experience of choosing a travel destinat
 
 ## Dataset Overview
 
+### Dataset Source
+
+The datasets used in this project were obtained from Kaggle:
+
+**Indonesia Tourism Destination Dataset**  
+by Agung Prabowo  
+https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination
+
+This dataset contains information on tourist destinations across Indonesia, including place names, categories, descriptions, ratings, and user interaction data suitable for recommendation system development.
+
+
 This project utilizes two datasets:
 
 ### 1. Tourism Dataset
