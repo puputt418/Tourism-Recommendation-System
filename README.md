@@ -1,5 +1,6 @@
 # Tourism-Recommendation-System
 ![image](https://github.com/user-attachments/assets/563ebcb8-98ea-4d33-bed2-e9f26ece8f46)
+
 Indonesia is a country with more than 17,000 islands, each offering its own unique charm—from pristine beaches and towering mountains to historical sites and modern attractions.
 
 While this diversity is a gift, it can also make choosing a destination overwhelming. Travelers often find themselves unsure about where to go, especially when information is scattered across various sources with inconsistent details. This challenge affects both domestic and international visitors alike.
@@ -27,6 +28,8 @@ To assess the system’s effectiveness, the model will be evaluated using the Pr
 
 The goal of this project is to make the experience of choosing a travel destination in Indonesia more straightforward, insightful, and enjoyable for users.
 
+---
+
 ## Dataset Overview
 
 This project utilizes two datasets:
@@ -48,8 +51,6 @@ This project utilizes two datasets:
 - `Coordinate`, `Lat`, `Long` (object/float64): Geographic location details.
 - `Unnamed: 11` (float64): Empty column, irrelevant and removed.
 - `Unnamed: 12` (int64): Column with unclear purpose, further inspection required.
-
----
 
 ### 2. Rating Dataset
 
